@@ -1,0 +1,5 @@
+﻿&texto=Los estudios disponibles son parte de la base de datos de nuestra empresa, contienen información de comercio exterior, análisis del mercado internacional, estadísticas importación/exportación, perfiles de mercado, listado de empresas importadoras.
+Los informes se presentan en carpeta, en formato PDF y CD.
+Además, disponemos de un servicio de consultas on line, dirigido a empresas que tengan dudas puntuales sobre su actividad de exportación/importación, como aspectos de las políticas arancelarias e impuestos en terceros países, subvenciones, legislación u otros. El plazo de respuesta va a depender de la complejidad de la pregunta. Si está interesado en este servicio, consúltenos utilizando el formulario de abajo. Estamos a su disposición para informarle.
+
+&
